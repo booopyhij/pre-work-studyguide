@@ -9,6 +9,7 @@ This project was created for coding boot camp students who were going the the Pr
 - The problem this project solves is helping me to learn new skills, and being able to apply these new skills in a real application.
 - I learned the basics of HTML, CSS, JavaScript and Git.
 
+test
 
 ## Installation
 
